@@ -27,6 +27,7 @@ class String
   end
 
   def count_sentences
+    puts self.count_sentences
 
   end
 end
